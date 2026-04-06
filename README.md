@@ -1,62 +1,100 @@
-<!-- Dark Mode Background -->
-<div style="background-color:#0d1117; padding: 30px; border-radius: 10px;">
-
 # Hi there! 👋 I'm Riski Yana Ramadhan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Beginner+Backend+Developer;Fullstack+Bootcamp+Graduate;Always+Learning+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Fullstack+Developer;Always+Learning+and+Building" alt="Typing SVG" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=Ikiyyz&color=brightgreen&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Ikiyyz?style=flat-square&color=blue" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryramadhan&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ryramadhan?style=flat-square&color=1f6feb" alt="Followers" />
 </div>
 
 ---
 
-# 💫 About Me  
-I am a Fullstack Development Bootcamp graduate who is currently focusing on becoming a Beginner Backend Developer.
-I am building a strong foundation in Node.js, Express, API Development, and database management.
-I continuously learn and deepen my backend skills to grow into a better and more capable developer.
+## 💫 About Me
+
+- Backend-focused developer with fullstack bootcamp background
+- Interested in server-side architecture, API design, and database systems
+- Building projects with Node.js, Express.js, TypeScript, and PostgreSQL
+- Based in Sumedang, Jatinangor, Indonesia
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🔹 Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### Backend (Main Focus)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-234157?style=flat-square&logo=sequelize&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
 
-### 🔹 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🔹 Tools & Others
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+## 📌 Featured Projects
+
+- **POS Web Application** — Product, transaction, inventory, and role-based access
+- **Todo App with Auth** — Authentication, profile management, pagination, filtering
+- **REST API Projects** — CRUD API with structured architecture and clean endpoint design
+
+> Update section ini dengan repo pin kamu yang paling kuat.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ikiyyz&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ikiyyz&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikiyyz&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ikiyyz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ryramadhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryramadhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=Ikiyyz&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryramadhan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryramadhan&bg_color=0D1117&color=79c0ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- RESTful API development
+- Authentication & authorization
+- Database design and optimization
+- Writing cleaner and scalable backend code
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riski-yana-ramadhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riskiyana@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryramadhan)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Learning something new every day in backend development."</i>
 </div>
