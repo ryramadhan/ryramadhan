@@ -5,7 +5,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/building%20in%20public-555555?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/sumedang%2C%20indonesia-555555?style=flat-square" />
 </div>
 
 <br>
