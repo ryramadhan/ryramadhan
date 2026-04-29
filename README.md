@@ -1,8 +1,11 @@
 [![banner](banner.gif)](https://github.com/ryramadhan)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryramadhan&color=aaaaaa&style=flat-square&label=views" />
-  <img src="https://img.shields.io/github/followers/ryramadhan?style=flat-square&color=aaaaaa&label=followers" />
+  <img src="https://img.shields.io/badge/open%20to%20work-555555?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/building%20in%20public-555555?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/sumedang%2C%20indonesia-555555?style=flat-square" />
 </div>
 
 <br>
@@ -50,12 +53,14 @@ building with **node.js · express.js · typescript · postgresql**
 ## stats
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ryramadhan&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryramadhan&layout=compact&theme=graywhite&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ryramadhan&show_icons=true&hide_border=false&count_private=true&bg_color=111111&border_color=333333&title_color=999999&text_color=888888&icon_color=666666" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryramadhan&layout=compact&hide_border=false&bg_color=111111&border_color=333333&title_color=999999&text_color=888888" />
 </div>
 
+<br>
+
 <div align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryramadhan&theme=graywhite&hide_border=true" />
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryramadhan&hide_border=false&background=111111&border=333333&ring=888888&fire=aaaaaa&currStreakLabel=999999&sideLabels=888888&dates=555555&currStreakNum=cccccc&sideNums=aaaaaa&stroke=333333" />
 </div>
 
 <br>
