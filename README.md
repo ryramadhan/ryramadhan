@@ -26,7 +26,6 @@ building with **node.js · express.js · typescript · postgresql**
 ![Sequelize](https://img.shields.io/badge/Sequelize-555555?style=flat-square&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-555555?style=flat-square&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
