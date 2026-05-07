@@ -23,11 +23,12 @@ building with **node.js · express.js · typescript · postgresql**
 ![Express.js](https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-555555?style=flat-square&logo=sequelize&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-555555?style=flat-square&logo=next.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-555555?style=flat-square&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-555555?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
 
 </div>
